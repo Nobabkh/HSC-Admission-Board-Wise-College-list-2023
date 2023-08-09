@@ -1,0 +1,984 @@
+District,Thana,EIIN,College Name,Shift,Version,Group Name,Gender,Min GPA,Own GPA,Available Seat
+Barguna,Amtali,100112,Amtali Govt. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barguna,Amtali,100112,Amtali Govt. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barguna,Amtali,100112,Amtali Govt. College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barguna,Amtali,100113,Bakulnessa Mohilla College,Day,Bangla,Business Studies,Female,2.50,0.00,150
+Barguna,Amtali,100113,Bakulnessa Mohilla College,Day,Bangla,Islamic Studies,Female,2.50,0.00,150
+Barguna,Amtali,100113,Bakulnessa Mohilla College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barguna,Amtali,100113,Bakulnessa Mohilla College,Day,Bangla,Science,Female,2.50,0.00,150
+Barguna,Amtali,134876,Dr. Md. Sahidul Islam College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Amtali,134876,Dr. Md. Sahidul Islam College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Amtali,134876,Dr. Md. Sahidul Islam College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Amtali,100111,Eunus Ali Khan College,Day,Bangla,Islamic Studies,Co-Edu,2.00,0.00,150
+Barguna,Amtali,100111,Eunus Ali Khan College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Amtali,100111,Eunus Ali Khan College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Amtali,100111,Eunus Ali Khan College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Amtali,139674,NAYAVAIZORA ADORSHO COLLEGE,Day,Bangla,Humanities,Co-Edu,1.00,0.00,120
+Barguna,Amtali,139674,NAYAVAIZORA ADORSHO COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,120
+Barguna,Amtali,139674,NAYAVAIZORA ADORSHO COLLEGE,Day,Bangla,Science,Co-Edu,2.00,0.00,80
+Barguna,Amtali,100110,Taltali Govt. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barguna,Amtali,100110,Taltali Govt. College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barguna,Amtali,100110,Taltali Govt. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barguna,Amtali,100115,Tiakhali College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Amtali,100115,Tiakhali College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Amtali,100116,Uttar Sonakhali Higher Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Amtali,100116,Uttar Sonakhali Higher Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Bamna,100142,Begum Faizun Nessa Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barguna,Bamna,100142,Begum Faizun Nessa Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Barguna,Bamna,100142,Begum Faizun Nessa Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,200
+Barguna,Bamna,100143,Govt. Bamna College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barguna,Bamna,100143,Govt. Bamna College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barguna,Bamna,100143,Govt. Bamna College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barguna,Bamna,100118,Govt.Bamna Sarwarjan Model School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Bamna,100118,Govt.Bamna Sarwarjan Model School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Bamna,100141,Halta Dauyatala Wazed Ali Khan College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+,,,,,,,,,,
+Barguna,Bamna,100141,Halta Dauyatala Wazed Ali Khan College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barguna,Bamna,100141,Halta Dauyatala Wazed Ali Khan College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100243,Ayla College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100243,Ayla College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Barguna Sadar,100241,Barguna Government College,Day,Bangla,Business Studies,Co-Edu,3.50,0.00,150
+Barguna,Barguna Sadar,100241,Barguna Government College,Day,Bangla,Science,Co-Edu,4.00,0.00,150
+Barguna,Barguna Sadar,100241,Barguna Government College,Day,Bangla,Humanities,Co-Edu,3.50,0.00,150
+Barguna,Barguna Sadar,100242,Barguna Govt. Mohila College,Day,Bangla,Science,Female,3.50,0.00,150
+Barguna,Barguna Sadar,100242,Barguna Govt. Mohila College,Day,Bangla,Humanities,Female,3.00,0.00,150
+Barguna,Barguna Sadar,100242,Barguna Govt. Mohila College,Day,Bangla,Business Studies,Female,3.00,0.00,150
+Barguna,Barguna Sadar,100240,Barguna Ideal College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100240,Barguna Ideal College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100240,Barguna Ideal College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,137692,Barguna New Model College,Day,Bangla,Science,Co-Edu,2.00,1.00,150
+Barguna,Barguna Sadar,137692,Barguna New Model College,Day,Bangla,Business Studies,Co-Edu,2.00,1.00,150
+Barguna,Barguna Sadar,137692,Barguna New Model College,Day,Bangla,Humanities,Co-Edu,1.00,1.00,150
+Barguna,Barguna Sadar,137690,Barguna Residential  Model College,Day,Bangla,Science,Co-Edu,2.00,1.00,150
+Barguna,Barguna Sadar,137690,Barguna Residential  Model College,Day,Bangla,Humanities,Co-Edu,1.00,1.00,150
+Barguna,Barguna Sadar,137690,Barguna Residential  Model College,Day,Bangla,Business Studies,Co-Edu,2.00,1.00,150
+Barguna,Barguna Sadar,100146,Fuljhury School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100146,Fuljhury School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100146,Fuljhury School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100183,Garjanbunia Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Barguna Sadar,100183,Garjanbunia Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100183,Garjanbunia Secondary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,80
+Barguna,Barguna Sadar,132006,Ghatbaria Adarsha College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Barguna Sadar,132006,Ghatbaria Adarsha College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,132006,Ghatbaria Adarsha College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100239,M. Baliatali D. N. College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100239,M. Baliatali D. N. College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100239,M. Baliatali D. N. College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Barguna Sadar,100163,Nali Muslim Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Barguna Sadar,100173,Road Para Shahidsmriti Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Barguna Sadar,100173,Road Para Shahidsmriti Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Betagi,100296,Betagi Govt. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barguna,Betagi,100296,Betagi Govt. College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barguna,Betagi,100296,Betagi Govt. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barguna,Betagi,100299,Betagi Higher Secondary Girls  School And College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barguna,Betagi,100256,Bibichini Niamati Union School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Betagi,100256,Bibichini Niamati Union School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Betagi,100256,Bibichini Niamati Union School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Betagi,100295,Chandkhali Mosharraf Hossain College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Betagi,100295,Chandkhali Mosharraf Hossain College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barguna,Betagi,100295,Chandkhali Mosharraf Hossain College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Betagi,100298,Dr. Asmat Ali College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Betagi,100298,Dr. Asmat Ali College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Betagi,100298,Dr. Asmat Ali College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Betagi,100248,Kadvanu Memorial Secondary Girls Scool And College,Day,Bangla,Science,Female,2.00,0.00,150
+Barguna,Betagi,100248,Kadvanu Memorial Secondary Girls Scool And College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barguna,Betagi,100248,Kadvanu Memorial Secondary Girls Scool And College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barguna,Betagi,100294,Kaunia College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barguna,Betagi,100294,Kaunia College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barguna,Betagi,100294,Kaunia College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Patharghata,100345,Govt. Hazi Jalaluddin Mohila College,Day,Bangla,Business Studies,Female,2.50,0.00,150
+Barguna,Patharghata,100345,Govt. Hazi Jalaluddin Mohila College,Day,Bangla,Humanities,Female,2.50,0.00,150
+Barguna,Patharghata,100345,Govt. Hazi Jalaluddin Mohila College,Day,Bangla,Science,Female,3.00,0.00,150
+Barguna,Patharghata,100345,Govt. Hazi Jalaluddin Mohila College,Day,Bangla,Music,Female,2.50,0.00,150
+Barguna,Patharghata,100310,Kathaltali Saptagram High School And College,Day,Bangla,Humanities,Co-Edu,1.00,1.00,150
+Barguna,Patharghata,100310,Kathaltali Saptagram High School And College,Day,Bangla,Business Studies,Co-Edu,2.00,1.00,150
+Barguna,Patharghata,100346,Patharghata College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barguna,Patharghata,100346,Patharghata College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barguna,Patharghata,100346,Patharghata College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barguna,Patharghata,100344,Syed Fazlul Haque College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barguna,Patharghata,100344,Syed Fazlul Haque College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barguna,Patharghata,100344,Syed Fazlul Haque College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Agailjhara,100384,Adarsha Madhamik Bidyalaya And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Agailjhara,100384,Adarsha Madhamik Bidyalaya And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Agailjhara,100355,Askar Kalibari Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Agailjhara,100355,Askar Kalibari Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Agailjhara,100386,Bagdha Secondary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Agailjhara,100386,Bagdha Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Agailjhara,100386,Bagdha Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Agailjhara,100387,Bahadurpur Nishi Kanta Gain Girls  Higher Secondary School And College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Agailjhara,100387,Bahadurpur Nishi Kanta Gain Girls  Higher Secondary School And College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Agailjhara,136509,Bashail Shahid Sukanta Babu College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Agailjhara,136509,Bashail Shahid Sukanta Babu College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Agailjhara,132027,Chayagram Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Agailjhara,132027,Chayagram Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Agailjhara,132027,Chayagram Secondary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Agailjhara,100382,Govt. Shaheed  Abdur Rob Serniabad College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Agailjhara,100382,Govt. Shaheed  Abdur Rob Serniabad College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Agailjhara,100382,Govt. Shaheed  Abdur Rob Serniabad College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Agailjhara,100353,Paisa Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Agailjhara,100353,Paisa Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100440,Agarpur College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100440,Agarpur College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100440,Agarpur College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100441,Babuganj College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100441,Babuganj College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Babuganj,100441,Babuganj College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Babuganj,136897,Birsreshtho Captain Mohiuddin Jahangir College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,136897,Birsreshtho Captain Mohiuddin Jahangir College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Babuganj,136897,Birsreshtho Captain Mohiuddin Jahangir College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100446,Chandpasha High School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100446,Chandpasha High School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Babuganj,100446,Chandpasha High School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100442,Govt. Abul Kalam College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Babuganj,100442,Govt. Abul Kalam College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Babuganj,100442,Govt. Abul Kalam College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Babuganj,100445,Kaderpur Sonarbangla Higher Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100445,Kaderpur Sonarbangla Higher Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Babuganj,100444,Madhobpasha Chandradip High School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100444,Madhobpasha Chandradip High School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Babuganj,100444,Madhobpasha Chandradip High School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100399,Mohanganj Higher Secondary School,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100399,Mohanganj Higher Secondary School,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Babuganj,100399,Mohanganj Higher Secondary School,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Babuganj,100408,Rased Khan Menon  Model H S School,Day,Bangla,Humanities,Co-Edu,1.00,1.00,150
+Barishal,Babuganj,100408,Rased Khan Menon  Model H S School,Day,Bangla,Business Studies,Co-Edu,2.00,1.00,150
+Barishal,Babuganj,100408,Rased Khan Menon  Model H S School,Day,Bangla,Science,Co-Edu,2.00,1.00,150
+Barishal,Bakerganj,100599,Abul Hossain Khan College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100599,Abul Hossain Khan College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Bakerganj,100592,Alhaz Hazrat Ali College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100592,Alhaz Hazrat Ali College,Morning,Bangla,Science,Co-Edu,2.00,0.00,80
+Barishal,Bakerganj,100592,Alhaz Hazrat Ali College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100588,Ataheruddin Howlader College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100588,Ataheruddin Howlader College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100588,Ataheruddin Howlader College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Bakerganj,100600,Badalpara Higher Secondary School,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100600,Badalpara Higher Secondary School,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Bakerganj,100591,Bakerganj Government College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Bakerganj,100591,Bakerganj Government College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Bakerganj,100591,Bakerganj Government College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Bakerganj,100597,Bakerganj Islamia Mohila College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Barishal,Bakerganj,100597,Bakerganj Islamia Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Bakerganj,100597,Bakerganj Islamia Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Barishal,Bakerganj,100596,Begum Sumsuddin Talukder College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100596,Begum Sumsuddin Talukder College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100596,Begum Sumsuddin Talukder College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100593,C.N.B. College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Bakerganj,100593,C.N.B. College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,138010,Chandradip College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Bakerganj,138010,Chandradip College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,138010,Chandradip College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100594,Helaluddin College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Bakerganj,100594,Helaluddin College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100594,Helaluddin College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,138548,JAHANGIR HOSSEN MOLLA COLLEGE,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,138548,JAHANGIR HOSSEN MOLLA COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,138548,JAHANGIR HOSSEN MOLLA COLLEGE,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Bakerganj,100492,K. G. S. Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100492,K. G. S. Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Bakerganj,100492,K. G. S. Secondary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,138296,Kabai Union Ideal Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Barishal,Bakerganj,138296,Kabai Union Ideal Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Bakerganj,138296,Kabai Union Ideal Mohila College,Day,Bangla,Business Studies,Female,1.00,0.00,150
+Barishal,Bakerganj,100598,Kabai Union Islamia College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Bakerganj,100598,Kabai Union Islamia College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100598,Kabai Union Islamia College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100590,Kalaskati Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100590,Kalaskati Degree College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100590,Kalaskati Degree College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100595,M. A. Malek Mahabiddayala,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Bakerganj,100595,M. A. Malek Mahabiddayala,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100595,M. A. Malek Mahabiddayala,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100587,Ratna Amin Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Bakerganj,100587,Ratna Amin Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Bakerganj,138998,SHEIKH HASINA CANTT PUBLIC SCHOOL AND COLLEGE,Morning,Bangla,Science,Co-Edu,4.50,0.00,50
+Barishal,Bakerganj,138998,SHEIKH HASINA CANTT PUBLIC SCHOOL AND COLLEGE,Morning,Bangla,Humanities,Co-Edu,4.00,0.00,30
+Barishal,Bakerganj,100454,ST.ALFREDS SCHOOL AND COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100454,ST.ALFREDS SCHOOL AND COLLEGE,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100589,Syed Afsar Ali College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100589,Syed Afsar Ali College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Bakerganj,100589,Syed Afsar Ali College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100657,Banaripara Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100657,Banaripara Degree College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100657,Banaripara Degree College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Banari Para,100656,Bisharkandi Sher-E-Bangla College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100656,Bisharkandi Sher-E-Bangla College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100656,Bisharkandi Sher-E-Bangla College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100658,Govt. Fazlul Haque College  Chakhar,Day,Bangla,Science,Co-Edu,3.50,0.00,150
+Barishal,Banari Para,100658,Govt. Fazlul Haque College  Chakhar,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Banari Para,100658,Govt. Fazlul Haque College  Chakhar,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Banari Para,100661,Masjidbari Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Banari Para,100661,Masjidbari Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100660,Sayedkati Union Islamia College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100660,Sayedkati Union Islamia College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100659,Syed Bazlul Haque College  Baishari,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100659,Syed Bazlul Haque College  Baishari,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Banari Para,100659,Syed Bazlul Haque College  Baishari,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100871,A. Karim Ideal College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100871,A. Karim Ideal College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100871,A. Karim Ideal College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Barishal Sadar,100869,Abdur Rob Seraniabat Govt. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Barishal Sadar,100869,Abdur Rob Seraniabat Govt. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Barishal Sadar,100869,Abdur Rob Seraniabat Govt. College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Barishal Sadar,132618,Alekanda Govt  College,Day,Bangla,Business Studies,Co-Edu,3.00,0.00,150
+Barishal,Barishal Sadar,132618,Alekanda Govt  College,Day,Bangla,Humanities,Co-Edu,3.00,0.00,150
+Barishal,Barishal Sadar,132618,Alekanda Govt  College,Day,Bangla,Science,Co-Edu,4.00,0.00,150
+Barishal,Barishal Sadar,100874,Amritalal Dey College  Barisal,Day,Bangla,Humanities,Co-Edu,4.00,0.00,150
+Barishal,Barishal Sadar,100874,Amritalal Dey College  Barisal,Day,Bangla,Business Studies,Co-Edu,4.00,0.00,150
+Barishal,Barishal Sadar,100874,Amritalal Dey College  Barisal,Day,Bangla,Science,Co-Edu,5.00,0.00,150
+Barishal,Barishal Sadar,135257,Ansar Uddin Mallick College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,135257,Ansar Uddin Mallick College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Barishal,Barishal Sadar,135257,Ansar Uddin Mallick College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Barishal Sadar,139588,BARISAL COMMERCE COLLEGE,Day,Bangla,Humanities,Co-Edu,2.50,0.00,120
+Barishal,Barishal Sadar,139588,BARISAL COMMERCE COLLEGE,Day,Bangla,Science,Co-Edu,3.00,0.00,80
+Barishal,Barishal Sadar,139588,BARISAL COMMERCE COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,120
+Barishal,Barishal Sadar,138470,BARISHAL COLLECTORATE SCHOOL AND COLLEGE,Morning,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,138470,BARISHAL COLLECTORATE SCHOOL AND COLLEGE,Morning,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,138470,BARISHAL COLLECTORATE SCHOOL AND COLLEGE,Morning,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Barishal Sadar,139345,Bangobondhu Songit College(Day And Night),Day,Bangla,Business Studies,Co-Edu,0.00,0.00,150
+Barishal,Barishal Sadar,139345,Bangobondhu Songit College(Day And Night),Day,Bangla,Science,Co-Edu,0.00,0.00,150
+Barishal,Barishal Sadar,139345,Bangobondhu Songit College(Day And Night),Day,Bangla,Music,Co-Edu,0.00,0.00,150
+Barishal,Barishal Sadar,139345,Bangobondhu Songit College(Day And Night),Day,Bangla,Humanities,Co-Edu,0.00,0.00,150
+Barishal,Barishal Sadar,100870,Barisal City College (Day  And Night),Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100870,Barisal City College (Day  And Night),Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100870,Barisal City College (Day  And Night),Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Barishal Sadar,100877,Barisal Government Women S College,Day,Bangla,Humanities,Female,4.50,0.00,300
+Barishal,Barishal Sadar,100877,Barisal Government Women S College,Day,Bangla,Science,Female,5.00,0.00,300
+Barishal,Barishal Sadar,100877,Barisal Government Women S College,Day,Bangla,Home Science,Female,4.50,0.00,150
+Barishal,Barishal Sadar,100877,Barisal Government Women S College,Day,Bangla,Business Studies,Female,4.50,0.00,300
+Barishal,Barishal Sadar,100867,Barisal Govt. College,Day,Bangla,Science,Co-Edu,4.00,0.00,150
+Barishal,Barishal Sadar,100867,Barisal Govt. College,Day,Bangla,Humanities,Co-Edu,3.50,0.00,150
+Barishal,Barishal Sadar,100867,Barisal Govt. College,Day,Bangla,Business Studies,Co-Edu,3.50,0.00,150
+Barishal,Barishal Sadar,132091,Barisal Govt. Model School And College,Day,Bangla,Humanities,Co-Edu,4.00,0.00,160
+Barishal,Barishal Sadar,132091,Barisal Govt. Model School And College,Day,Bangla,Business Studies,Co-Edu,3.50,0.00,160
+Barishal,Barishal Sadar,132091,Barisal Govt. Model School And College,Day,Bangla,Science,Co-Edu,5.00,0.00,160
+Barishal,Barishal Sadar,100868,Barisal Islamia College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100868,Barisal Islamia College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Barishal Sadar,100868,Barisal Islamia College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,137625,Barisal Metropolitan College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,137625,Barisal Metropolitan College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,137625,Barisal Metropolitan College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Barishal Sadar,100873,Begum Tofazzal Hossain Manik Mia Mahila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Barishal Sadar,100873,Begum Tofazzal Hossain Manik Mia Mahila College,Day,Bangla,Science,Female,2.00,0.00,150
+Barishal,Barishal Sadar,100873,Begum Tofazzal Hossain Manik Mia Mahila College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Barishal,Barishal Sadar,100876,Government Syed Hatem Ali College  Barisal,Day,Bangla,Business Studies,Co-Edu,4.00,0.00,150
+Barishal,Barishal Sadar,100876,Government Syed Hatem Ali College  Barisal,Day,Bangla,Humanities,Co-Edu,4.00,0.00,150
+Barishal,Barishal Sadar,100876,Government Syed Hatem Ali College  Barisal,Day,Bangla,Science,Co-Edu,5.00,0.00,150
+Barishal,Barishal Sadar,100875,Govt. B M College,Day,Bangla,Business Studies,Co-Edu,4.50,0.00,150
+Barishal,Barishal Sadar,100875,Govt. B M College,Day,Bangla,Science,Co-Edu,5.00,0.00,300
+Barishal,Barishal Sadar,100875,Govt. B M College,Day,Bangla,Humanities,Co-Edu,4.50,0.00,150
+Barishal,Barishal Sadar,137596,Jahanara Israil School And College,Day,English,Science,Co-Edu,3.00,0.00,50
+Barishal,Barishal Sadar,137596,Jahanara Israil School And College,Day,English,Business Studies,Co-Edu,3.00,0.00,50
+Barishal,Barishal Sadar,137596,Jahanara Israil School And College,Day,English,Humanities,Co-Edu,3.00,0.00,50
+Barishal,Barishal Sadar,100882,Karnakathi G.R. Higher Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Barishal Sadar,100882,Karnakathi G.R. Higher Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100882,Karnakathi G.R. Higher Secondary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100812,Kashipur Girls  High School And College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Barishal Sadar,100812,Kashipur Girls  High School And College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Barishal Sadar,100812,Kashipur Girls  High School And College,Day,Bangla,Science,Female,2.00,0.00,150
+Barishal,Barishal Sadar,100880,Kashipur High School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100880,Kashipur High School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Barishal Sadar,100880,Kashipur High School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100872,Mahangar Day And Night College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100872,Mahangar Day And Night College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Barishal Sadar,100872,Mahangar Day And Night College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100866,RUPATALI JAGUA COLLEGE,Morning,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100866,RUPATALI JAGUA COLLEGE,Morning,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100866,RUPATALI JAGUA COLLEGE,Morning,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100878,Shahid Ziaur Rahman College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Barishal Sadar,100878,Shahid Ziaur Rahman College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100878,Shahid Ziaur Rahman College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100881,Talukderhat School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Barishal Sadar,100881,Talukderhat School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Barishal Sadar,100881,Talukderhat School And College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Gaurnadi,100705,Barthi College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Gaurnadi,100705,Barthi College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Gaurnadi,100705,Barthi College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Gaurnadi,134217,Batajore Rabeya Fazle Karim Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Gaurnadi,134217,Batajore Rabeya Fazle Karim Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Gaurnadi,100707,Gouranadi Secondary Girls  School And College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Gaurnadi,100707,Gouranadi Secondary Girls  School And College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Gaurnadi,100707,Gouranadi Secondary Girls  School And College,Day,Bangla,Science,Female,2.50,0.00,150
+Barishal,Gaurnadi,100703,Government Gournadi College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Gaurnadi,100703,Government Gournadi College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Gaurnadi,100703,Government Gournadi College,Day,Bangla,Science,Co-Edu,3.50,0.00,150
+Barishal,Gaurnadi,100706,Mahilara Degree College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Gaurnadi,100706,Mahilara Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Gaurnadi,100706,Mahilara Degree College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Gaurnadi,100704,Nizamuddin College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Gaurnadi,100704,Nizamuddin College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Gaurnadi,100704,Nizamuddin College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Gaurnadi,100665,Palordi Model Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Gaurnadi,100665,Palordi Model Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Gaurnadi,100665,Palordi Model Secondary School And College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Hizla,136325,Abdul Jabbar Mehman College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Hizla,136325,Abdul Jabbar Mehman College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Hizla,100736,Govt. Hijla College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Hizla,100736,Govt. Hijla College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Hizla,100736,Govt. Hijla College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Hizla,100712,Kauria Secondary School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Hizla,100712,Kauria Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Mehendiganj,137795,Deshratno Sheikh Hasina Govt College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Mehendiganj,137795,Deshratno Sheikh Hasina Govt College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Mehendiganj,137795,Deshratno Sheikh Hasina Govt College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Mehendiganj,100950,Ekota College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Mehendiganj,100950,Ekota College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Mehendiganj,100950,Ekota College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Mehendiganj,100949,Govt. Patarhat R. C. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Mehendiganj,100949,Govt. Patarhat R. C. College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Mehendiganj,100949,Govt. Patarhat R. C. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Mehendiganj,100895,Lengutia Muslim Secondary School,Day,Bangla,Business Studies,Co-Edu,0.00,0.00,80
+Barishal,Mehendiganj,100895,Lengutia Muslim Secondary School,Day,Bangla,Humanities,Co-Edu,1.00,0.00,80
+Barishal,Mehendiganj,100948,Mehendiganj Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Mehendiganj,100948,Mehendiganj Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Mehendiganj,100948,Mehendiganj Mohila College,Day,Bangla,Science,Female,2.50,0.00,150
+Barishal,Mehendiganj,100951,Ulania Mozaffar Khan Mahavidyalaya,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Mehendiganj,100951,Ulania Mozaffar Khan Mahavidyalaya,Day,Bangla,Science,Co-Edu,2.00,0.00,80
+Barishal,Mehendiganj,100951,Ulania Mozaffar Khan Mahavidyalaya,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Mehendiganj,100952,Vasanchor Bidhanandapur Mohabidhalay,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Mehendiganj,100952,Vasanchor Bidhanandapur Mohabidhalay,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101017,Arif Mahmood College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101017,Arif Mahmood College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101017,Arif Mahmood College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101014,Char  Kalay Khan Adarsha College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101014,Char  Kalay Khan Adarsha College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101014,Char  Kalay Khan Adarsha College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101013,Govt. Muladi College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Muladi,101013,Govt. Muladi College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Muladi,101013,Govt. Muladi College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Muladi,101018,Hazi Sayed Badrul Hossain College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101018,Hazi Sayed Badrul Hossain College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Muladi,136530,Muladi Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Muladi,136530,Muladi Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Muladi,101015,Nazirpur United College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101015,Nazirpur United College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101015,Nazirpur United College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Muladi,101016,Purba Hosnabad Mahabiddyalya,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Muladi,101016,Purba Hosnabad Mahabiddyalya,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101099,Alhaz B. N. Khan Degree College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101099,Alhaz B. N. Khan Degree College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Ujirpur,101099,Alhaz B. N. Khan Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101104,Barakotha Union College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101104,Barakotha Union College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101104,Barakotha Union College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Ujirpur,101098,Dhamura Degree College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101098,Dhamura Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101098,Dhamura Degree College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101101,Govt. Sher-E-Bangla Degree College  Shikarpur,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Barishal,Ujirpur,101101,Govt. Sher-E-Bangla Degree College  Shikarpur,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Barishal,Ujirpur,101101,Govt. Sher-E-Bangla Degree College  Shikarpur,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Barishal,Ujirpur,101096,Guthia Ideal College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Barishal,Ujirpur,101096,Guthia Ideal College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101096,Guthia Ideal College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101022,Harta Higher Secondary School,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101022,Harta Higher Secondary School,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101022,Harta Higher Secondary School,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Ujirpur,101102,Hazi Taheruddin Islamia College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101102,Hazi Taheruddin Islamia College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101102,Hazi Taheruddin Islamia College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Ujirpur,101103,Jagir Kanda Mohila College,Day,Bangla,Business Studies,Female,1.00,0.00,150
+Barishal,Ujirpur,101103,Jagir Kanda Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Ujirpur,101106,Jalla Union Ideal College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Ujirpur,101106,Jalla Union Ideal College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101106,Jalla Union Ideal College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,139068,Moshang Girls School And College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Barishal,Ujirpur,139068,Moshang Girls School And College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Barishal,Ujirpur,101105,SATLA IDEAL COLLEGE,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Ujirpur,101105,SATLA IDEAL COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101038,Satla Higher Secondary School,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101038,Satla Higher Secondary School,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101038,Satla Higher Secondary School,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Ujirpur,101095,Shahid Swaranika College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101095,Shahid Swaranika College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101095,Shahid Swaranika College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Barishal,Ujirpur,101097,Syed Azizul Haque College  Habibpur,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101097,Syed Azizul Haque College  Habibpur,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101097,Syed Azizul Haque College  Habibpur,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Barishal,Ujirpur,101100,Ujirpur Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Barishal,Ujirpur,101100,Ujirpur Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Barishal,Ujirpur,101100,Ujirpur Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Bhola,Bhola Sadar,101214,Alinagar School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101214,Alinagar School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Bhola,Bhola Sadar,101209,Altazer Rahaman College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101209,Altazer Rahaman College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101209,Altazer Rahaman College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101204,Bangla Bazar Fatema Khanam College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Bhola,Bhola Sadar,101204,Bangla Bazar Fatema Khanam College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Bhola,Bhola Sadar,101204,Bangla Bazar Fatema Khanam College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Bhola,Bhola Sadar,101210,Bankerhat Co. Operative Higher Secondary School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101210,Bankerhat Co. Operative Higher Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101109,Bhola Abdur Rob Secondiary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101109,Bhola Abdur Rob Secondiary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Bhola Sadar,101109,Bhola Abdur Rob Secondiary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101205,Bhola Government College,Day,Bangla,Business Studies,Co-Edu,3.00,0.00,150
+Bhola,Bhola Sadar,101205,Bhola Government College,Day,Bangla,Humanities,Co-Edu,3.50,0.00,150
+Bhola,Bhola Sadar,101205,Bhola Government College,Day,Bangla,Science,Co-Edu,4.00,0.00,150
+Bhola,Bhola Sadar,132036,Birsreshtho Mostofakamal College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Bhola Sadar,132036,Birsreshtho Mostofakamal College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,132036,Birsreshtho Mostofakamal College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101215,Charjangalia School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Bhola Sadar,101215,Charjangalia School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101215,Charjangalia School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101203,Elisha Islamia Model College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101203,Elisha Islamia Model College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Bhola,Bhola Sadar,101203,Elisha Islamia Model College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101207,Government Shekh Fazilatunnesa Mohila College,Day,Bangla,Humanities,Female,3.50,0.00,150
+Bhola,Bhola Sadar,101207,Government Shekh Fazilatunnesa Mohila College,Day,Bangla,Business Studies,Female,3.50,0.00,150
+Bhola,Bhola Sadar,101207,Government Shekh Fazilatunnesa Mohila College,Day,Bangla,Science,Female,4.00,0.00,150
+Bhola,Bhola Sadar,139237,Kobi Mozammel Huq Womens College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Bhola,Bhola Sadar,139237,Kobi Mozammel Huq Womens College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Bhola,Bhola Sadar,139237,Kobi Mozammel Huq Womens College,Day,Bangla,Science,Female,2.00,0.00,150
+Bhola,Bhola Sadar,101211,Manik Mia Ideal College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101211,Manik Mia Ideal College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101211,Manik Mia Ideal College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101208,Naziur Rahman College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Bhola,Bhola Sadar,101208,Naziur Rahman College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101208,Naziur Rahman College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101206,Obaidul Haque College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101206,Obaidul Haque College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Bhola,Bhola Sadar,101206,Obaidul Haque College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101154,Paschim Bepta Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101154,Paschim Bepta Secondary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,101154,Paschim Bepta Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Bhola Sadar,132025,Reba Rahaman Degree College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,132025,Reba Rahaman Degree College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,132025,Reba Rahaman Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,133895,Vasha Shahid Sreeti Mahabiddalaya,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,133895,Vasha Shahid Sreeti Mahabiddalaya,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Bhola Sadar,133895,Vasha Shahid Sreeti Mahabiddalaya,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Bhola,Burhanuddin,101292,Burhanuddin Women College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Bhola,Burhanuddin,101292,Burhanuddin Women College,Day,Bangla,Science,Female,2.00,0.00,150
+Bhola,Burhanuddin,101292,Burhanuddin Women College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Bhola,Burhanuddin,101225,Deula Talukder Bari Secodary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,50
+Bhola,Burhanuddin,101225,Deula Talukder Bari Secodary School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Burhanuddin,101225,Deula Talukder Bari Secodary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,50
+Bhola,Burhanuddin,101294,Govt. A. Jabbar College  Borhanuddin,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Bhola,Burhanuddin,101294,Govt. A. Jabbar College  Borhanuddin,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Bhola,Burhanuddin,101294,Govt. A. Jabbar College  Borhanuddin,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Bhola,Burhanuddin,101295,Hafiz Ibrahim College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Burhanuddin,101295,Hafiz Ibrahim College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Burhanuddin,101295,Hafiz Ibrahim College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Burhanuddin,101293,Kacia Tagbi E. P. Mohabidhalay,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Burhanuddin,101293,Kacia Tagbi E. P. Mohabidhalay,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Burhanuddin,101293,Kacia Tagbi E. P. Mohabidhalay,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101437,Abdullah Al Islam Jackob College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101437,Abdullah Al Islam Jackob College,Day,Bangla,Islamic Studies,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101437,Abdullah Al Islam Jackob College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Char Fasson,101437,Abdullah Al Islam Jackob College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,134388,Begum Rahima Islam College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,134388,Begum Rahima Islam College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,134388,Begum Rahima Islam College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Bhola,Char Fasson,101439,Charfasson Govt. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Bhola,Char Fasson,101439,Charfasson Govt. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Bhola,Char Fasson,101439,Charfasson Govt. College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Bhola,Char Fasson,101436,Charmanika Jala Ahmed College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101436,Charmanika Jala Ahmed College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Char Fasson,139117,Dokkhin Aicha Principal Nazrul Islam College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,139117,Dokkhin Aicha Principal Nazrul Islam College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,139117,Dokkhin Aicha Principal Nazrul Islam College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101440,Dularhat Adarsha College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Bhola,Char Fasson,101440,Dularhat Adarsha College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101440,Dularhat Adarsha College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101438,Fatema Matin Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Bhola,Char Fasson,101438,Fatema Matin Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Bhola,Char Fasson,101438,Fatema Matin Mohila College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Bhola,Char Fasson,101434,Janata Bazar College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Char Fasson,101434,Janata Bazar College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101434,Janata Bazar College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,136974,Nalima Jakob College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,136974,Nalima Jakob College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,136974,Nalima Jakob College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,134352,Principal Nazrul Islam College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Char Fasson,134352,Principal Nazrul Islam College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,134352,Principal Nazrul Islam College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101435,Rasulpur Degree College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Char Fasson,101435,Rasulpur Degree College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Char Fasson,101435,Rasulpur Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Daulat Khan,137694,Ali Ashraf Mohabiddalay,Day,Bangla,Business Studies,Co-Edu,2.00,1.00,150
+Bhola,Daulat Khan,137694,Ali Ashraf Mohabiddalay,Day,Bangla,Science,Co-Edu,2.00,1.00,150
+Bhola,Daulat Khan,137694,Ali Ashraf Mohabiddalay,Day,Bangla,Humanities,Co-Edu,1.00,1.00,150
+Bhola,Daulat Khan,101449,CHARGUMANY SCHOOL AND COLLEGE,Day,Bangla,Humanities,Co-Edu,2.00,0.00,100
+Bhola,Daulat Khan,101449,CHARGUMANY SCHOOL AND COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,100
+Bhola,Daulat Khan,101449,CHARGUMANY SCHOOL AND COLLEGE,Day,Bangla,Science,Co-Edu,2.00,0.00,100
+Bhola,Daulat Khan,101486,Daulatkhan Govt. Abu Abdullah College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Bhola,Daulat Khan,101486,Daulatkhan Govt. Abu Abdullah College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Bhola,Daulat Khan,101486,Daulatkhan Govt. Abu Abdullah College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Bhola,Daulat Khan,135198,Daulatkhan Mohila College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Bhola,Daulat Khan,135198,Daulatkhan Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Bhola,Daulat Khan,135198,Daulatkhan Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Bhola,Daulat Khan,101485,Halima Khatun Mohila Mohabidhalaya,Day,Bangla,Science,Female,2.00,0.00,150
+Bhola,Daulat Khan,101485,Halima Khatun Mohila Mohabidhalaya,Day,Bangla,Humanities,Female,1.00,0.00,150
+Bhola,Daulat Khan,101485,Halima Khatun Mohila Mohabidhalaya,Day,Bangla,Business Studies,Female,1.00,0.00,150
+Bhola,Lalmohan,101506,Balurchar Dalal Bazar School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,132034,Dholi Gournagar College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Lalmohan,132034,Dholi Gournagar College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,132034,Dholi Gournagar College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,137091,Dr Azahar Uddin Memorial College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,137091,Dr Azahar Uddin Memorial College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Lalmohan,101573,Dr. Azhar Uddin College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Bhola,Lalmohan,101573,Dr. Azhar Uddin College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,101573,Dr. Azhar Uddin College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,101503,Gazaria Girls  School and college,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Bhola,Lalmohan,101503,Gazaria Girls  School and college,Day,Bangla,Humanities,Female,2.00,0.00,150
+Bhola,Lalmohan,101503,Gazaria Girls  School and college,Day,Bangla,Science,Female,2.50,0.00,150
+Bhola,Lalmohan,101572,Government Shahbajpur College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Bhola,Lalmohan,101572,Government Shahbajpur College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Bhola,Lalmohan,101572,Government Shahbajpur College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Bhola,Lalmohan,135393,Hazi Mohammad Nurul Islam Chowdhury College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,135393,Hazi Mohammad Nurul Islam Chowdhury College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,135393,Hazi Mohammad Nurul Islam Chowdhury College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,101570,Karimunnessa Hafiz Mohila College,Day,Bangla,Business Studies,Female,2.50,1.00,150
+Bhola,Lalmohan,101570,Karimunnessa Hafiz Mohila College,Day,Bangla,Humanities,Female,2.00,1.00,150
+Bhola,Lalmohan,101570,Karimunnessa Hafiz Mohila College,Day,Bangla,Science,Female,2.50,1.00,150
+Bhola,Lalmohan,130678,LALMOHAN HAMIM RESIDENTIAL ACADEMI,Day,Bangla,Science,Co-Edu,4.00,0.00,100
+Bhola,Lalmohan,130678,LALMOHAN HAMIM RESIDENTIAL ACADEMI,Day,Bangla,Humanities,Co-Edu,3.00,0.00,100
+Bhola,Lalmohan,134880,Nurnobi Chowdury College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,134880,Nurnobi Chowdury College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,134880,Nurnobi Chowdury College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,101511,Pangasia School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,101511,Pangasia School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Lalmohan,101511,Pangasia School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Bhola,Lalmohan,101493,Ramaganj Secondary School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Bhola,Lalmohan,101493,Ramaganj Secondary School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Manpura,101591,Govt. Manpura College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Manpura,101591,Govt. Manpura College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Bhola,Manpura,101591,Govt. Manpura College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Manpura,101592,Manoara Begum Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Bhola,Manpura,101592,Manoara Begum Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Bhola,Manpura,101592,Manoara Begum Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Bhola,Manpura,137996,Sakuchia Abdullah Al Islam Jakob College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Bhola,Manpura,137996,Sakuchia Abdullah Al Islam Jakob College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Bhola,Manpura,137996,Sakuchia Abdullah Al Islam Jakob College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Bhola,Tazumuddin,101621,Govt.Tazumuddin College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Bhola,Tazumuddin,101621,Govt.Tazumuddin College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Bhola,Tazumuddin,101621,Govt.Tazumuddin College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Bhola,Tazumuddin,137634,Shambopur Shahe Alma Model College,Day,Bangla,Science,Co-Edu,2.00,1.00,150
+Bhola,Tazumuddin,137634,Shambopur Shahe Alma Model College,Day,Bangla,Humanities,Co-Edu,2.00,1.00,150
+Bhola,Tazumuddin,137634,Shambopur Shahe Alma Model College,Day,Bangla,Business Studies,Co-Edu,2.00,1.00,150
+Bhola,Tazumuddin,137997,Tazumuddin Hosneara Chowdhury Mahila College,Day,Bangla,Science,Female,2.00,0.00,150
+Bhola,Tazumuddin,137997,Tazumuddin Hosneara Chowdhury Mahila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Bhola,Tazumuddin,137997,Tazumuddin Hosneara Chowdhury Mahila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,136555,Aklima Moazzem Hossain College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,220
+Jhalokati,Jhalokati Sadar,136555,Aklima Moazzem Hossain College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,136555,Aklima Moazzem Hossain College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101707,Hemayetuddin College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101707,Hemayetuddin College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101707,Hemayetuddin College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101709,Jhalakathi Government College,Day,Bangla,Science,Co-Edu,4.00,0.00,150
+Jhalokati,Jhalokati Sadar,101709,Jhalakathi Government College,Day,Bangla,Humanities,Co-Edu,3.00,0.00,150
+Jhalokati,Jhalokati Sadar,101709,Jhalakathi Government College,Day,Bangla,Business Studies,Co-Edu,3.00,0.00,150
+Jhalokati,Jhalokati Sadar,101708,Jhalakathi Mohila College,Day,Bangla,Science,Female,3.50,0.00,150
+Jhalokati,Jhalokati Sadar,101708,Jhalakathi Mohila College,Day,Bangla,Business Studies,Female,3.00,0.00,150
+Jhalokati,Jhalokati Sadar,101708,Jhalakathi Mohila College,Day,Bangla,Humanities,Female,3.00,0.00,150
+Jhalokati,Jhalokati Sadar,101708,Jhalakathi Mohila College,Day,Bangla,Home Science,Female,3.00,0.00,150
+Jhalokati,Jhalokati Sadar,101643,Khayerhat Fazlul Haq Higher Secondary School,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Jhalokati,Jhalokati Sadar,101643,Khayerhat Fazlul Haq Higher Secondary School,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101651,Nabogram Model High School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Jhalokati,Jhalokati Sadar,101651,Nabogram Model High School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Jhalokati,Jhalokati Sadar,101657,Sachilapur Kistakathi Higher Secondari Scool,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101712,Shah Mahmudia College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101712,Shah Mahmudia College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Jhalokati,Jhalokati Sadar,101712,Shah Mahmudia College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101710,Sher-E-Bangla Fazlul Haque College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101710,Sher-E-Bangla Fazlul Haque College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101710,Sher-E-Bangla Fazlul Haque College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Jhalokati,Jhalokati Sadar,101714,Shirjug Azimunnesa Girls  High School And College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Jhalokati,Jhalokati Sadar,101714,Shirjug Azimunnesa Girls  High School And College,Day,Bangla,Science,Female,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101714,Shirjug Azimunnesa Girls  High School And College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101672,Syeda Jamila Khatun Girls School And College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Jhalokati,Jhalokati Sadar,101672,Syeda Jamila Khatun Girls School And College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Jhalokati,Kanthalia,101728,Amua Secondary Girls  School And College,Day,Bangla,Science,Female,2.00,0.00,150
+Jhalokati,Kanthalia,101728,Amua Secondary Girls  School And College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Jhalokati,Kanthalia,136561,Dr Md Sekander Hayat Khan College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Jhalokati,Kanthalia,136561,Dr Md Sekander Hayat Khan College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Jhalokati,Kanthalia,136561,Dr Md Sekander Hayat Khan College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Jhalokati,Kanthalia,101783,Govt. Tofazzol Hossain Manik Mia College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Jhalokati,Kanthalia,101783,Govt. Tofazzol Hossain Manik Mia College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Jhalokati,Kanthalia,101783,Govt. Tofazzol Hossain Manik Mia College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Jhalokati,Kanthalia,101717,Kathalia Secondary Girls  School And College,Day,Bangla,Science,Female,2.00,0.00,150
+Jhalokati,Kanthalia,101717,Kathalia Secondary Girls  School And College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Jhalokati,Kanthalia,101717,Kathalia Secondary Girls  School And College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Jhalokati,Kanthalia,101785,Monoswita Mohila College,Day,Bangla,Science,Female,2.00,0.00,80
+Jhalokati,Kanthalia,101785,Monoswita Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Jhalokati,Kanthalia,101785,Monoswita Mohila College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Jhalokati,Kanthalia,101784,Shahid Raja Degree College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Jhalokati,Kanthalia,101784,Shahid Raja Degree College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Jhalokati,Kanthalia,101784,Shahid Raja Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Kanthalia,101788,West Chitki Secondary School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Jhalokati,Kanthalia,101788,West Chitki Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Jhalokati,Nalchity,138054,Abdus Salam College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Jhalokati,Nalchity,138054,Abdus Salam College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Jhalokati,Nalchity,138054,Abdus Salam College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Jhalokati,Nalchity,101869,Dapdapia Union College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Jhalokati,Nalchity,101869,Dapdapia Union College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Jhalokati,Nalchity,101869,Dapdapia Union College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Nalchity,137014,Dapdapia Union Model Mahila College,Day,Bangla,Business Studies,Female,1.00,0.00,150
+Jhalokati,Nalchity,137014,Dapdapia Union Model Mahila College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Jhalokati,Nalchity,138081,Feroja Amu School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Nalchity,138081,Feroja Amu School And College,Day,Bangla,Islamic Studies,Co-Edu,1.00,0.00,150
+Jhalokati,Nalchity,138081,Feroja Amu School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Jhalokati,Nalchity,138081,Feroja Amu School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Jhalokati,Nalchity,101867,Govt. Nalchiti College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Jhalokati,Nalchity,101867,Govt. Nalchiti College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Jhalokati,Nalchity,101867,Govt. Nalchiti College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Jhalokati,Nalchity,135256,Mowlana Golam Mostafa Khan Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Jhalokati,Nalchity,135256,Mowlana Golam Mostafa Khan Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Jhalokati,Nalchity,135256,Mowlana Golam Mostafa Khan Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Jhalokati,Nalchity,101796,Nalbunia Mahabbat Ali Secondary School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Jhalokati,Nalchity,101796,Nalbunia Mahabbat Ali Secondary School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Jhalokati,Nalchity,101797,Nalcity Girls School And College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Jhalokati,Nalchity,101803,Ranapasha Secondary School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Jhalokati,Nalchity,101803,Ranapasha Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Jhalokati,Nalchity,101868,Z. A. Bhutto College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Jhalokati,Nalchity,101868,Z. A. Bhutto College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Nalchity,101868,Z. A. Bhutto College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Jhalokati,Rajapur,101974,Abdul Malek College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Jhalokati,Rajapur,101974,Abdul Malek College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Rajapur,101974,Abdul Malek College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Jhalokati,Rajapur,101972,Al-Haj Lalmon Hamid Women College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Jhalokati,Rajapur,101972,Al-Haj Lalmon Hamid Women College,Day,Bangla,Science,Female,2.00,0.00,150
+Jhalokati,Rajapur,101972,Al-Haj Lalmon Hamid Women College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Jhalokati,Rajapur,101975,Baraiya College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Jhalokati,Rajapur,101975,Baraiya College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Jhalokati,Rajapur,101975,Baraiya College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Jhalokati,Rajapur,101973,Rajapur Govt. College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Jhalokati,Rajapur,101973,Rajapur Govt. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Jhalokati,Rajapur,101973,Rajapur Govt. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Jhalokati,Rajapur,101923,WEST GALUA DURGAPUR SCHOOL AND COLLEGE,Day,Bangla,Humanities,Co-Edu,0.00,0.00,100
+Patuakhali,Bauphal,102112,Abdur Rashid Khan College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102112,Abdur Rashid Khan College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102112,Abdur Rashid Khan College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Patuakhali,Bauphal,102112,Abdur Rashid Khan College,Day,Bangla,Islamic Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102107,Bauphal Govt. College,Day,Bangla,Science,Co-Edu,3.50,0.00,150
+Patuakhali,Bauphal,102107,Bauphal Govt. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Patuakhali,Bauphal,102107,Bauphal Govt. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Patuakhali,Bauphal,101989,Dhulia Higher Secondary School,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,101989,Dhulia Higher Secondary School,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Bauphal,101989,Dhulia Higher Secondary School,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102110,Dr. Yakub Sharif College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102110,Dr. Yakub Sharif College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102110,Dr. Yakub Sharif College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102108,Engineer Faruk Talukder Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Patuakhali,Bauphal,102108,Engineer Faruk Talukder Mohila College,Day,Bangla,Science,Female,2.50,0.00,150
+Patuakhali,Bauphal,102108,Engineer Faruk Talukder Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Patuakhali,Bauphal,102105,Idris Molla Mahavidyalaya,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102105,Idris Molla Mahavidyalaya,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102105,Idris Molla Mahavidyalaya,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102113,Kachhipara Md. Abdur Rashid Mia College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102113,Kachhipara Md. Abdur Rashid Mia College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102113,Kachhipara Md. Abdur Rashid Mia College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Bauphal,102109,Kalisuri College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102109,Kalisuri College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102109,Kalisuri College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Patuakhali,Bauphal,101986,Kanakdia Sir Salimullah School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,101986,Kanakdia Sir Salimullah School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,101986,Kanakdia Sir Salimullah School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Bauphal,102106,Keshabpur Mahavidyalaya,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102106,Keshabpur Mahavidyalaya,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102106,Keshabpur Mahavidyalaya,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102111,Nurainpur College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Bauphal,102111,Nurainpur College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Bauphal,102111,Nurainpur College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Dashmina,139583,AROJBEGI LABORATORY COLLEGE,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,100
+Patuakhali,Dashmina,139583,AROJBEGI LABORATORY COLLEGE,Day,Bangla,Science,Co-Edu,2.00,0.00,100
+Patuakhali,Dashmina,139583,AROJBEGI LABORATORY COLLEGE,Day,Bangla,Humanities,Co-Edu,1.00,0.00,100
+Patuakhali,Dashmina,102165,Alipura College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Dashmina,102165,Alipura College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Dashmina,102129,BATAGI SHIKDARIA SCHOOL AND COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,120
+Patuakhali,Dashmina,102129,BATAGI SHIKDARIA SCHOOL AND COLLEGE,Day,Bangla,Humanities,Co-Edu,1.00,0.00,120
+Patuakhali,Dashmina,102129,BATAGI SHIKDARIA SCHOOL AND COLLEGE,Day,Bangla,Science,Co-Edu,2.00,0.00,80
+Patuakhali,Dashmina,134358,Dr Doli Akber Womens College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Patuakhali,Dashmina,134358,Dr Doli Akber Womens College,Day,Bangla,Science,Female,2.00,0.00,150
+Patuakhali,Dashmina,134358,Dr Doli Akber Womens College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Patuakhali,Dashmina,102164,Govt. A. Rashid Talukder College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Patuakhali,Dashmina,102164,Govt. A. Rashid Talukder College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Patuakhali,Dashmina,102164,Govt. A. Rashid Talukder College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Patuakhali,Dumki,131891,Aziz Ahmed College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Dumki,131891,Aziz Ahmed College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Dumki,131891,Aziz Ahmed College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Dumki,102217,Dumki Nasima Keamot Ali Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Patuakhali,Dumki,102217,Dumki Nasima Keamot Ali Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Patuakhali,Dumki,102217,Dumki Nasima Keamot Ali Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Patuakhali,Dumki,102216,Govt.Janata College  Dumki  Patuakhali,Day,Bangla,Science,Co-Edu,4.00,0.00,150
+Patuakhali,Dumki,102216,Govt.Janata College  Dumki  Patuakhali,Day,Bangla,Humanities,Co-Edu,3.00,0.00,150
+Patuakhali,Dumki,102216,Govt.Janata College  Dumki  Patuakhali,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Patuakhali,Dumki,134881,Kadamtala College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Dumki,134881,Kadamtala College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Dumki,134881,Kadamtala College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Dumki,131931,L. A. M. United Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Patuakhali,Dumki,131931,L. A. M. United Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Patuakhali,Dumki,131931,L. A. M. United Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Patuakhali,Dumki,131868,Pangashia College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Dumki,131868,Pangashia College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Dumki,131868,Pangashia College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Dumki,102187,Srijanee Bidyaniketan,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Patuakhali,Dumki,102187,Srijanee Bidyaniketan,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102336,Amkhola College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102336,Amkhola College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Galachipa,102336,Amkhola College,Day,Bangla,Science,Co-Edu,0.00,0.00,150
+Patuakhali,Galachipa,102251,BOALIA PAKKHIA  CHARKHALI (BPC) SCHOOL AND COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,50
+Patuakhali,Galachipa,102251,BOALIA PAKKHIA  CHARKHALI (BPC) SCHOOL AND COLLEGE,Day,Bangla,Humanities,Co-Edu,1.00,0.00,50
+Patuakhali,Galachipa,102328,Bakulbaria Union College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102328,Bakulbaria Union College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102328,Bakulbaria Union College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Patuakhali,Galachipa,102221,Char Agosty School And College,Day,Bangla,Business Studies,Co-Edu,0.00,0.00,150
+Patuakhali,Galachipa,102221,Char Agosty School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102221,Char Agosty School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,134467,Chiknikandi College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Galachipa,134467,Chiknikandi College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102274,Galachipa Ideal School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102274,Galachipa Ideal School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102274,Galachipa Ideal School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102332,Galachipa Womens  Collgee,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Patuakhali,Galachipa,102332,Galachipa Womens  Collgee,Day,Bangla,Science,Female,2.00,0.00,150
+Patuakhali,Galachipa,102332,Galachipa Womens  Collgee,Day,Bangla,Humanities,Female,2.00,0.00,150
+Patuakhali,Galachipa,102331,Govt.Galachipa College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Patuakhali,Galachipa,102331,Govt.Galachipa College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Patuakhali,Galachipa,102331,Govt.Galachipa College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Patuakhali,Galachipa,102327,Hazi Keramat Ali Mahabidhalaya,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Galachipa,102327,Hazi Keramat Ali Mahabidhalaya,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102327,Hazi Keramat Ali Mahabidhalaya,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102330,Kalagachia S. M. Sakendar Ali Chowdhury,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102330,Kalagachia S. M. Sakendar Ali Chowdhury,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102330,Kalagachia S. M. Sakendar Ali Chowdhury,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Galachipa,102334,Kharizzama College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102334,Kharizzama College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102334,Kharizzama College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Galachipa,102325,PANPATTY COLLEGE,Morning,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102325,PANPATTY COLLEGE,Morning,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102337,Ulania Higher Secondary School,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Galachipa,102337,Ulania Higher Secondary School,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Galachipa,102337,Ulania Higher Secondary School,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Kala Para,102404,Alhaj Zalal Uddin College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Kala Para,102404,Alhaj Zalal Uddin College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Kala Para,102404,Alhaj Zalal Uddin College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Kala Para,102356,DALBUGANJ SCHOOL AND COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,100
+Patuakhali,Kala Para,102356,DALBUGANJ SCHOOL AND COLLEGE,Day,Bangla,Humanities,Co-Edu,2.00,0.00,100
+Patuakhali,Kala Para,102356,DALBUGANJ SCHOOL AND COLLEGE,Day,Bangla,Science,Co-Edu,2.00,0.00,100
+Patuakhali,Kala Para,102403,Dhankhali College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Kala Para,102403,Dhankhali College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Patuakhali,Kala Para,102402,Govt. Mozaharuddin Biswas College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Patuakhali,Kala Para,102402,Govt. Mozaharuddin Biswas College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Patuakhali,Kala Para,102402,Govt. Mozaharuddin Biswas College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Patuakhali,Kala Para,102401,Kalapara Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Patuakhali,Kala Para,102401,Kalapara Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,200
+Patuakhali,Kala Para,102401,Kalapara Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Patuakhali,Kala Para,102399,Kuakata Khanabad College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Kala Para,102399,Kuakata Khanabad College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Kala Para,102399,Kuakata Khanabad College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Kala Para,102400,Muktijhoddha Memorial College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Kala Para,102400,Muktijhoddha Memorial College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Kala Para,102400,Muktijhoddha Memorial College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Mirzaganj,102473,Akhtar Hossain Choudhury Memorial Degree College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Mirzaganj,102473,Akhtar Hossain Choudhury Memorial Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Mirzaganj,102473,Akhtar Hossain Choudhury Memorial Degree College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Mirzaganj,137787,Bhasa Sahid Abdul Jabber Memorial College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Mirzaganj,137787,Bhasa Sahid Abdul Jabber Memorial College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Mirzaganj,137787,Bhasa Sahid Abdul Jabber Memorial College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Mirzaganj,102471,Govt. Subidkhali College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Patuakhali,Mirzaganj,102471,Govt. Subidkhali College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Patuakhali,Mirzaganj,102471,Govt. Subidkhali College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Patuakhali,Mirzaganj,137687,Howlader Foundation Womens College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Patuakhali,Mirzaganj,137687,Howlader Foundation Womens College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Patuakhali,Mirzaganj,137687,Howlader Foundation Womens College,Day,Bangla,Science,Female,2.00,0.00,150
+Patuakhali,Mirzaganj,102474,Kismothpur Delwar Hossain College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Patuakhali,Mirzaganj,102474,Kismothpur Delwar Hossain College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Mirzaganj,102470,Masjid Baria College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Mirzaganj,102470,Masjid Baria College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Mirzaganj,102470,Masjid Baria College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Mirzaganj,102472,Subidkhali Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Patuakhali,Mirzaganj,102472,Subidkhali Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Patuakhali,Mirzaganj,102472,Subidkhali Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102594,A. K. M. College (Day And Night),Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102594,A. K. M. College (Day And Night),Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Patuakhali,Patuakhali Sadar,102594,A. K. M. College (Day And Night),Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102592,ADHYAKSHA SAYED AHAMMAD COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102592,ADHYAKSHA SAYED AHAMMAD COLLEGE,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102592,ADHYAKSHA SAYED AHAMMAD COLLEGE,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,102518,AWLIAPUR SABINA AKTER SCHOOL AND COLLEGE,Day,Bangla,Science,Co-Edu,2.00,0.00,80
+Patuakhali,Patuakhali Sadar,102518,AWLIAPUR SABINA AKTER SCHOOL AND COLLEGE,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102518,AWLIAPUR SABINA AKTER SCHOOL AND COLLEGE,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102601,Asmat Ali Khan College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102601,Asmat Ali Khan College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102601,Asmat Ali Khan College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,131851,Bania Kathi Mohila College,Day,Bangla,Business Studies,Female,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,131851,Bania Kathi Mohila College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,131851,Bania Kathi Mohila College,Day,Bangla,Science,Female,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,102602,Batalbonia Higher Secondary School,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102591,Dharandi College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102591,Dharandi College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,102591,Dharandi College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102597,Hazi Akkel Ali Howlader College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102597,Hazi Akkel Ali Howlader College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102597,Hazi Akkel Ali Howlader College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Patuakhali,Patuakhali Sadar,132000,Hazi Hamejuddin Mridha College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,132000,Hazi Hamejuddin Mridha College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,132000,Hazi Hamejuddin Mridha College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,102600,Hazi Muktar Ali Mridha College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102600,Hazi Muktar Ali Mridha College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102600,Hazi Muktar Ali Mridha College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,102504,Hazikhali  School and College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,80
+Patuakhali,Patuakhali Sadar,102504,Hazikhali  School and College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,80
+Patuakhali,Patuakhali Sadar,102504,Hazikhali  School and College,Day,Bangla,Science,Co-Edu,2.00,0.00,80
+Patuakhali,Patuakhali Sadar,139509,LAMNA WOMENS COLLEGE,Day,Bangla,Humanities,Female,1.00,0.00,80
+Patuakhali,Patuakhali Sadar,139509,LAMNA WOMENS COLLEGE,Day,Bangla,Business Studies,Female,2.00,0.00,80
+Patuakhali,Patuakhali Sadar,102598,Maukaran B. L. P. Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102598,Maukaran B. L. P. Degree College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102598,Maukaran B. L. P. Degree College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,102595,Mohammed Ishaque Model College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102595,Mohammed Ishaque Model College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,102595,Mohammed Ishaque Model College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102475,PURBO BAROBIGHAI JANATA SCHOOL AND COLLEGE,Day,Bangla,Humanities,Co-Edu,1.50,0.00,100
+Patuakhali,Patuakhali Sadar,138226,Patuakhali Collectorate School and College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,100
+Patuakhali,Patuakhali Sadar,138226,Patuakhali Collectorate School and College,Day,Bangla,Science,Co-Edu,3.00,0.00,100
+Patuakhali,Patuakhali Sadar,138226,Patuakhali Collectorate School and College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,100
+Patuakhali,Patuakhali Sadar,102596,Patuakhali Government College,Day,Bangla,Business Studies,Co-Edu,3.00,0.00,150
+Patuakhali,Patuakhali Sadar,102596,Patuakhali Government College,Day,Bangla,Humanities,Co-Edu,3.00,0.00,150
+Patuakhali,Patuakhali Sadar,102596,Patuakhali Government College,Day,Bangla,Science,Co-Edu,4.00,0.00,150
+Patuakhali,Patuakhali Sadar,102593,Patuakhali Government Mahila College,Day,Bangla,Humanities,Female,3.00,0.00,150
+Patuakhali,Patuakhali Sadar,102593,Patuakhali Government Mahila College,Day,Bangla,Science,Female,3.50,0.00,150
+Patuakhali,Patuakhali Sadar,102593,Patuakhali Government Mahila College,Day,Bangla,Business Studies,Female,3.00,0.00,150
+Patuakhali,Patuakhali Sadar,131897,Pazakhali College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,131897,Pazakhali College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,137704,Pukurjana Isahak Jamadder College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,137704,Pukurjana Isahak Jamadder College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Patuakhali Sadar,137704,Pukurjana Isahak Jamadder College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102505,khaserhat School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102505,khaserhat School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Patuakhali,Patuakhali Sadar,102505,khaserhat School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Rangabali,102335,Govt. Rangabali College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Patuakhali,Rangabali,102335,Govt. Rangabali College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Patuakhali,Rangabali,102335,Govt. Rangabali College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Patuakhali,Rangabali,134740,Halima Khatun Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Patuakhali,Rangabali,134740,Halima Khatun Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Patuakhali,Rangabali,134740,Halima Khatun Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Patuakhali,Rangabali,137706,Mahbubur Rahman College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Patuakhali,Rangabali,137706,Mahbubur Rahman College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Patuakhali,Rangabali,137706,Mahbubur Rahman College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Bhandaria,102682,Aman Ullah College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Bhandaria,102682,Aman Ullah College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Bhandaria,102682,Aman Ullah College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Pirojpur,Bhandaria,102683,Bhandaria Govt. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Pirojpur,Bhandaria,102683,Bhandaria Govt. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Pirojpur,Bhandaria,102683,Bhandaria Govt. College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Pirojpur,Bhandaria,102684,Majida Begum Mahila College,Day,Bangla,Science,Female,2.50,0.00,150
+Pirojpur,Bhandaria,102684,Majida Begum Mahila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Pirojpur,Bhandaria,102684,Majida Begum Mahila College,Day,Bangla,Humanities,Female,2.00,0.00,200
+Pirojpur,Bhandaria,102681,Manik Mia College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Bhandaria,102681,Manik Mia College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Pirojpur,Bhandaria,102686,Singhakhali Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Bhandaria,102686,Singhakhali Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Bhandaria,102686,Singhakhali Secondary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,80
+Pirojpur,Bhandaria,102613,Telikhaly School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,100
+Pirojpur,Bhandaria,102613,Telikhaly School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,100
+Pirojpur,Kawkhali,102721,Govt. Kaukhali College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Pirojpur,Kawkhali,102721,Govt. Kaukhali College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Pirojpur,Kawkhali,102721,Govt. Kaukhali College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Pirojpur,Kawkhali,102720,Kaukhali Mohila College,Day,Bangla,Humanities,Female,1.00,0.00,150
+Pirojpur,Kawkhali,102720,Kaukhali Mohila College,Day,Bangla,Science,Female,2.00,0.00,150
+Pirojpur,Kawkhali,102720,Kaukhali Mohila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Pirojpur,Mathbaria,131952,Bangabandhu Shiekh Mujibur Rahman College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,131952,Bangabandhu Shiekh Mujibur Rahman College,Day,Bangla,Science,Co-Edu,2.00,0.00,100
+Pirojpur,Mathbaria,131952,Bangabandhu Shiekh Mujibur Rahman College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Mathbaria,137784,Dadivanga Ad. Ziaul Faruk Talukdre College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Pirojpur,Mathbaria,137784,Dadivanga Ad. Ziaul Faruk Talukdre College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Mathbaria,102820,Dr. Rustom Ali Farazi College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102820,Dr. Rustom Ali Farazi College,Day,Bangla,Islamic Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102820,Dr. Rustom Ali Farazi College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Pirojpur,Mathbaria,102820,Dr. Rustom Ali Farazi College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102817,Mahiuddin Ahmed Womens College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Pirojpur,Mathbaria,102817,Mahiuddin Ahmed Womens College,Day,Bangla,Science,Female,2.00,0.00,150
+Pirojpur,Mathbaria,102817,Mahiuddin Ahmed Womens College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Pirojpur,Mathbaria,102819,Mathbaria Govt. College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Pirojpur,Mathbaria,102819,Mathbaria Govt. College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,300
+Pirojpur,Mathbaria,102819,Mathbaria Govt. College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Pirojpur,Mathbaria,102816,Mikrukhali Mahabiddyalya,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102816,Mikrukhali Mahabiddyalya,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Mathbaria,102816,Mikrukhali Mahabiddyalya,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102726,Mirukhali school And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Mathbaria,102726,Mirukhali school And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102821,Safa College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102821,Safa College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102821,Safa College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102818,Shahadat Hossain College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,102818,Shahadat Hossain College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Pirojpur,Mathbaria,136476,Tushkhali  Mohiuddin Maharaj College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,136476,Tushkhali  Mohiuddin Maharaj College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Mathbaria,136476,Tushkhali  Mohiuddin Maharaj College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Nazirpur,102890,Baithakata College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Nazirpur,102890,Baithakata College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102890,Baithakata College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102823,Dighirjan Secondary School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102823,Dighirjan Secondary School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Pirojpur,Nazirpur,102894,Gaokhali School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102894,Gaokhali School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102894,Gaokhali School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102893,Ghoskhati Mohavidyalaya,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102893,Ghoskhati Mohavidyalaya,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102893,Ghoskhati Mohavidyalaya,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Nazirpur,134874,Govt.Banga Mata Begum Fazilatunnesa Mujib Womens College,Day,Bangla,Humanities,Female,2.50,0.00,150
+Pirojpur,Nazirpur,134874,Govt.Banga Mata Begum Fazilatunnesa Mujib Womens College,Day,Bangla,Science,Female,3.00,0.00,150
+Pirojpur,Nazirpur,134874,Govt.Banga Mata Begum Fazilatunnesa Mujib Womens College,Day,Bangla,Business Studies,Female,2.50,0.00,150
+Pirojpur,Nazirpur,102889,Matibhanga Degree College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102889,Matibhanga Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102889,Matibhanga Degree College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102892,Nazirpur  College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,200
+Pirojpur,Nazirpur,102892,Nazirpur  College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,102892,Nazirpur  College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Pirojpur,Nazirpur,134353,Rajlaxmi Mahabidyalaya,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,134353,Rajlaxmi Mahabidyalaya,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nazirpur,134353,Rajlaxmi Mahabidyalaya,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Nazirpur,102891,Shahid Janani Mohila Mahabidhalaya,Day,Bangla,Science,Female,2.00,0.00,150
+Pirojpur,Nazirpur,102891,Shahid Janani Mohila Mahabidhalaya,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Pirojpur,Nazirpur,102891,Shahid Janani Mohila Mahabidhalaya,Day,Bangla,Humanities,Female,1.00,0.00,150
+Pirojpur,Nesarabad,103079,Alhaj Abdur Rahman College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103079,Alhaj Abdur Rahman College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Nesarabad,103079,Alhaj Abdur Rahman College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103013,East Jalabari Adarsha High School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103013,East Jalabari Adarsha High School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Pirojpur,Nesarabad,103080,Fazila Rahman Mahila College,Day,Bangla,Humanities,Female,2.00,0.00,150
+Pirojpur,Nesarabad,103080,Fazila Rahman Mahila College,Day,Bangla,Science,Female,2.00,0.00,150
+Pirojpur,Nesarabad,103080,Fazila Rahman Mahila College,Day,Bangla,Business Studies,Female,2.00,0.00,150
+Pirojpur,Nesarabad,103083,Kabiguru Rabindra Nath College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103083,Kabiguru Rabindra Nath College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Nesarabad,103083,Kabiguru Rabindra Nath College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,131984,Pachim Sohagdal Shahid Smrity B. M. Degree College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,131984,Pachim Sohagdal Shahid Smrity B. M. Degree College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Nesarabad,131984,Pachim Sohagdal Shahid Smrity B. M. Degree College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103078,Rajbari College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103078,Rajbari College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Nesarabad,103078,Rajbari College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103023,Sehangal School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,120
+Pirojpur,Nesarabad,103023,Sehangal School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,120
+Pirojpur,Nesarabad,103081,Shahid Smrity College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103081,Shahid Smrity College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103081,Shahid Smrity College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Nesarabad,103082,Swarupkathi Government College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Pirojpur,Nesarabad,103082,Swarupkathi Government College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,200
+Pirojpur,Nesarabad,103082,Swarupkathi Government College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Pirojpur Sadar,102954,Aftabuddin College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Pirojpur Sadar,102954,Aftabuddin College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Pirojpur Sadar,102954,Aftabuddin College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Pirojpur Sadar,139172,Dr. S K Majumder Agriculture And Technical College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Pirojpur Sadar,139172,Dr. S K Majumder Agriculture And Technical College,Day,Bangla,Science,Co-Edu,2.50,0.00,150
+Pirojpur,Pirojpur Sadar,139172,Dr. S K Majumder Agriculture And Technical College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Pirojpur Sadar,102955,Govt. Sohrawardy College,Day,Bangla,Science,Co-Edu,4.00,0.00,150
+Pirojpur,Pirojpur Sadar,102955,Govt. Sohrawardy College,Day,Bangla,Humanities,Co-Edu,3.00,0.00,150
+Pirojpur,Pirojpur Sadar,102955,Govt. Sohrawardy College,Day,Bangla,Business Studies,Co-Edu,3.00,0.00,150
+Pirojpur,Pirojpur Sadar,102905,Kodomtala Jorge High school And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Pirojpur Sadar,102905,Kodomtala Jorge High school And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Pirojpur Sadar,102956,Perojpur Government Girls  College,Day,Bangla,Humanities,Female,3.00,0.00,150
+Pirojpur,Pirojpur Sadar,102956,Perojpur Government Girls  College,Day,Bangla,Science,Female,3.50,0.00,150
+Pirojpur,Pirojpur Sadar,102956,Perojpur Government Girls  College,Day,Bangla,Business Studies,Female,3.00,0.00,150
+Pirojpur,Pirojpur Sadar,102957,Tejdaskathi College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Pirojpur Sadar,102957,Tejdaskathi College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Pirojpur,Pirojpur Sadar,102957,Tejdaskathi College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Pirojpur Sadar,102916,Zinnat Ali Memorial Secondary School And College,Day,Bangla,Humanities,Co-Edu,1.00,0.00,150
+Pirojpur,Pirojpur Sadar,102916,Zinnat Ali Memorial Secondary School And College,Day,Bangla,Science,Co-Edu,2.00,0.00,150
+Pirojpur,Pirojpur Sadar,102916,Zinnat Ali Memorial Secondary School And College,Day,Bangla,Business Studies,Co-Edu,2.00,0.00,150
+Pirojpur,Zianagor,102986,Govt. Indurkani  College,Day,Bangla,Business Studies,Co-Edu,2.50,0.00,150
+Pirojpur,Zianagor,102986,Govt. Indurkani  College,Day,Bangla,Humanities,Co-Edu,2.50,0.00,150
+Pirojpur,Zianagor,102986,Govt. Indurkani  College,Day,Bangla,Science,Co-Edu,3.00,0.00,150
+Pirojpur,Zianagor,133059,K. C. Technical And B. M. College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
+Pirojpur,Zianagor,133059,K. C. Technical And B. M. College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Zianagor,102960,Parerhat R.L. Secondary School And College,Day,Bangla,Humanities,Co-Edu,2.00,0.00,150
+Pirojpur,Zianagor,102960,Parerhat R.L. Secondary School And College,Day,Bangla,Business Studies,Co-Edu,1.00,0.00,150
